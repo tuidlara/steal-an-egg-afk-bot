@@ -1,8 +1,8 @@
 import time
 import pydirectinput as pdi
 
-INTERVAL = 600
-LEFT_DURATION = 0.15
+INTERVAL = 5
+LEFT_DURATION = 0.08
 JUMP_DURATION = 0.3
 START_DELAY = 5
 
