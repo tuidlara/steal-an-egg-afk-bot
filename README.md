@@ -40,7 +40,7 @@ Press `Ctrl + C` in the terminal to stop the script.
 
 ```python
 INTERVAL = 600
-LEFT_DURATION = 0.15
+LEFT_DURATION = 0.08
 JUMP_DURATION = 0.3
 START_DELAY = 5
 ```
