@@ -47,4 +47,4 @@ START_DELAY = 5
 
 All values are in seconds and can be adjusted as needed.
 
-**Note:** The script does not guarantee prevention of AFK disconnections and may be subject to game rules.
+**Note:** You can configure the values to adjust as you like.
