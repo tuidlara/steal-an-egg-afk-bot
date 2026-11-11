@@ -45,6 +45,4 @@ JUMP_DURATION = 0.3
 START_DELAY = 5
 ```
 
-All values are in seconds and can be adjusted as needed.
-
 **Note:** You can configure the values to adjust as you like.
